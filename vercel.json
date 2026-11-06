@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "public",
+  "functions": { "api/index.js": { "maxDuration": 30 } }
+}
